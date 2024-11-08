@@ -18,10 +18,10 @@
             <a href="#"><img src="imagens/logo.png" alt="logo catevento" id="logo" title="Voltar para a página principal."></a>
             <h1 class="login-title">Já possui uma conta?</h1>
             <p id="login-paragrafo">Acesse agora mesmo :)</p>
-            <a href="arquivos-php/Login.html" id="btn-login">Entrar</a>
+            <a href="./arquivos-php/Login.php" id="btn-login">Entrar</a>
         </article>
         <article id="article-registrar">
-            <form action="Backcadastro.php" id="form-registro" method="POST" onsubmit="return validarFormulario()">
+            <form action="./arquivos-php/Backcadastro.php" id="form-registro" method="POST" onsubmit="return validarFormulario()">
                 <h2 id="subtitulo-login" class="text-dark-mode">Crie sua conta</h2>
                 <p id="paragrafo-login" class="text-dark-mode">Preencha seus dados</p>
                 <div id="input-nome">

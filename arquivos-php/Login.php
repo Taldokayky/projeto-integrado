@@ -17,7 +17,7 @@
             <a href="#"><img src="../imagens/logo.png" alt="logo catevento" id="logo" title="Voltar para a página principal."></a>
             <h1 class="login-title">Página em desenvolvimento</h1>
             <p id="login-paragrafo">Estamos trabalhando para tornar essa pagina acessível :)</p>
-            <a href="../cadastro.html" id="btn-login">Voltar</a>
+            <a href="../cadastro.php" id="btn-login">Voltar</a>
         </article>
         <article id="article-vetor">
             <img src="../imagens/dev-ilustracao.png" alt="ilustração de um site em desenvolvimento" id="ilustracao-web">
